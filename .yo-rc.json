@@ -1,0 +1,14 @@
+{
+  "generator-jhipster": {
+    "baseName": "travelApp",
+    "packageName": "de.kmapper.web",
+    "packageFolder": "de/kmapper/web",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "atmosphere",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "useCompass": true,
+    "javaVersion": "8"
+  }
+}
